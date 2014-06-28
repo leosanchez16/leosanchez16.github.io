@@ -1,7 +1,7 @@
 # Site settings
 title: Personal blog
 email: your-email@domain.com
-description: "A personal blog where I will publish projects, anything important to me."
+description: "A personal blog where I will publish projects or anything important to me."
 baseurl: ""
 url: "http://leosnchez16.com"
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Hello World"
 date:   2014-06-20
 categories: none
+description: " "
 ---
 
 This is my first post on leosanchez16.com, and hopefully the first of many. I also have a website that I rarely use to publish news, tutorials for iPhone, and its called [iPhonelokura.com][1] and it is in Spanish. 
@@ -14,5 +15,5 @@ I will be using this website as a blog to publish any projects that I do while I
 Meanwhile, you can follow me on [Twitter][2], or [GitHub][3].
 
 [1]: http://iphonelokura.com
-[2]: http://twitter.com/iphonelokura 
+[2]: http://twitter.com/leosanchez16 
 [3]: http://github.com/leosanchez16
