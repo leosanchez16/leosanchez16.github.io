@@ -5,6 +5,8 @@ date:   2014-06-24
 categories: Java
 description: " "
 ---
+A new updated version!
+[HERE][3]
 
 The idea started from transferring my SMS attachments via iExplorer, which you can do, but the only problem that I had with it was that it had extra files that I did not need and the files where inside folders inside folders. That's when I decided to make my own program called CopyAttachments.
 
@@ -23,3 +25,4 @@ This is the project in GitHub. [CopyAttachments][2].
 
 [1]: http://bitly.com/CopyAttachments
 [2]: http://github.com/leosanchez16/CopyAttachments
+[3]: /how-download-iphone-sms-attachments/
