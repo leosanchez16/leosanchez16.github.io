@@ -13,10 +13,7 @@ This simple program will download all the SMS attachments that you have in your 
 ##Instructions:
 1. Open Terminal
 2. Download the file from [here][1] it only works with OS X for right now.
-3. Type/copy into terminal 
-`
-java -jar
-` and drag the downloaded file into terminal and hit Enter, make sure there's a space after `-jar` ![directory](/images/SMSAttachment1.png "SMSAttachment1")
+3. Type/copy into terminal `java -jar` and drag the downloaded file into terminal and hit Enter, make sure there's a space after `-jar` ![directory](/images/SMSAttachment1.png "SMSAttachment1")
 
 it should look something like this `java -jar /Users/YOURUSERNAME/Desktop/SMSAttachments.jar`
 
